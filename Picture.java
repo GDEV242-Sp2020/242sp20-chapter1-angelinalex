@@ -13,7 +13,7 @@ public class Picture
 {
     private Square wall;
     private Square window;
-    private Triangle roof;
+    private Triangle roof; //test to see if works
     private Circle sun;
     private boolean drawn;
 
